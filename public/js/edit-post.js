@@ -23,6 +23,7 @@ const updatePostFormHandler = async (event) => {
     } else {
       alert("Failed to update a post."); 
   }
+}
 };
 
 // Delete the post
